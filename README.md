@@ -1,6 +1,10 @@
 # login_page_flutter
 
-A new Flutter application.
+A new Login Page Flutter application with basic animation in flutter.
+
+![LoginPage](https://user-images.githubusercontent.com/25679298/54140572-ebbf6080-4449-11e9-9868-a3103439a023.png)
+![HomePage](https://user-images.githubusercontent.com/25679298/54140575-ecf08d80-4449-11e9-8541-a282d97bd589.png)
+
 
 ## Getting Started
 
